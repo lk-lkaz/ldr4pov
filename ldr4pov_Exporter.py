@@ -1,7 +1,7 @@
 """
 This program is free software.
 Feel free to fix, modify, or remake it.
-(GitHub URL:)
+https://github.com/lk-lkaz/ldr4pov
 """
 
 
