@@ -5,7 +5,13 @@ https://github.com/lk-lkaz/ldr4pov
 """
 
 import bpy
+import math
 import mathutils
+from bpy.props import (
+                        FloatProperty,
+                        IntProperty,
+                        EnumProperty,
+                        )
 
 bl_info = {
     "name": "ldr4pov_Tools_AssemblyAnimation",
